@@ -1,0 +1,81 @@
+  import ai from "./assets/img/Ai.jpg";
+  import crypto from "./assets/img/crypto.jpg"
+
+  
+  
+  export const projects = [
+  {
+    id: 1,
+    title: "AI-Powered Chatbot",
+    description: "A chatbot that uses GPT-4 to assist users with customer service tasks.",
+    tags: ["AI", "Chatbot", "GPT"],
+    status: "collaboration",
+    media: ai,
+    authorName: 'Mustapha Ado',
+    authorAvatar: 'https://i.pravatar.cc/32?u=mustapha',
+    likes: 2,
+    comments: 46,
+  },
+  {
+    id: 2,
+    title: "Crypto Portfolio Tracker",
+    description: "A dashboard that helps users track their crypto assets in real-time.",
+    tags: ["Crypto", "Dashboard", "Finance"],
+    status: "sale",
+    media: crypto,
+    authorName: 'Mustapha Ado',
+    authorAvatar: 'https://i.pravatar.cc/32?u=mustapha',
+    likes: 2200,
+    comments: 46,
+  },
+   {
+    id: 3,
+    title: "AI-Powered Chatbot",
+    description: "A chatbot that uses GPT-4 to assist users with customer service tasks.",
+    tags: ["AI", "Chatbot", "GPT"],
+    status: "collaboration",
+    media: ai,
+    authorName: 'Mustapha Ado',
+    authorAvatar: 'https://i.pravatar.cc/32?u=mustapha',
+    likes: 2200,
+    comments: 46,
+  },
+  {
+    id: 4,
+    title: "Crypto Portfolio Tracker",
+    description: "A dashboard that helps users track their crypto assets in real-time.",
+    tags: ["Crypto", "Dashboard", "Finance"],
+    status: "sale",
+    media: crypto,
+    authorName: 'Mustapha Ado',
+    authorAvatar: 'https://i.pravatar.cc/32?u=mustapha',
+    likes: 2200,
+    comments: 46,
+  },
+   {
+    id: 5,
+    title: "AI-Powered Chatbot",
+    description: "A chatbot that uses GPT-4 to assist users with customer service tasks.",
+    tags: ["AI", "Chatbot", "GPT"],
+    status: "collaboration",
+    media: ai,
+    authorName: 'Mustapha Ado',
+    authorAvatar: 'https://i.pravatar.cc/32?u=mustapha',
+    likes: 2200,
+    comments: 46,
+  },
+  {
+    id: 6,
+    title: "Crypto Portfolio Tracker",
+    description: "A dashboard that helps users track their crypto assets in real-time.",
+    tags: ["Crypto", "Dashboard", "Finance"],
+    status: "sale",
+    media: crypto,
+    authorName: 'Mustapha Ado',
+    authorAvatar: 'https://i.pravatar.cc/32?u=mustapha',
+    likes: 2200,
+    comments: 46,
+  },
+  
+];
+
